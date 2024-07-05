@@ -10,10 +10,13 @@ export default defineConfig({
       name: 'host',
       remotes: [{
         login: {
-          external: '',
+          external: 'http://localhost:4173/assets/remoteEntry.js',
           externalType: 'url'
         }
       }]
     }),
   ],
+  build: {
+    target: 'esnext'
+  }
 });
