@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/HenriqueSouzza/microfrontend-vite/assets/52017795/02ed7ea9-b568-463e-b5bc-24e6236aec02">
+</p>
+
 # About project
 
 É um projeto exemplificando uma implementação de microfrontend usando viteJs. Temos 2 aplicação uma remote e outra host:
